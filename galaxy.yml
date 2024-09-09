@@ -8,7 +8,6 @@ authors:
 description: An ansible collection for managing OpenStack Octavia Quotas
 license:
   - MIT
-license_file: LICENSE
 tags: []
 dependencies: {}
 repository: https://github.com/ScaleUp-Technologies/octavia_quota
